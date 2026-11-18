@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+**[View the Complete Python Analysis](NYC_Motor_Vehicle_Collision_Analysis.ipynb)**
+
 This project analyzes motor vehicle collisions across New York City to identify geographic, seasonal, and time-based patterns in crash frequency and severity.
 
 Using publicly available NYC Open Data, our team conducted exploratory data analysis (EDA), logistic regression, and K-means clustering to investigate factors associated with motor vehicle crashes.
