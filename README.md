@@ -18,8 +18,8 @@ Using publicly available NYC Open Data, our team conducted exploratory data anal
 
 The project uses two datasets from NYC Open Data:
 
-- Motor Vehicle Collisions — Crashes
-- Motor Vehicle Collisions — Vehicles
+- [Motor Vehicle Collisions — Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+- [Motor Vehicle Collisions — Vehicles](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4)
 
 These datasets were combined using a common collision identifier to examine crash characteristics and vehicle information.
 
